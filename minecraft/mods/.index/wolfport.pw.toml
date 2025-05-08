@@ -1,0 +1,16 @@
+filename = 'wolf_port-1.0.3-1.20.1.jar'
+name = 'Wolf Port'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6b7c574e0938ff534fc6855fe015e2d2c82c38d78adfdd2ab3fe314294167897ce31c78f72b442435c0bc8867328511a4fa6f070e29f5a06bb1acd139c7390fe'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uLZglE65/versions/DDYrH71z/wolf_port-1.0.3-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'uLZglE65'
+version = 'DDYrH71z'

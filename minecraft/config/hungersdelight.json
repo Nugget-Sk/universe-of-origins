@@ -1,0 +1,23 @@
+{
+  "spawnHealth": 20,
+  "spawnHunger": 18,
+  "usePassiveExhaustion": true,
+  "passiveExhaustionTickRate": 80,
+  "passiveExhaustionAmount": 0.1,
+  "jumpExhaustionAmount": 0.1,
+  "sprintJumpExhaustionAmount": 0.2,
+  "minFoodLevelForSprint": 6,
+  "walkingExhaustionMultiplier": 0.01,
+  "sprintingExhaustionMultiplier": 0.1,
+  "crouchingExhaustionMultiplier": 0.05,
+  "swimmingExhaustionMultiplier": 0.2,
+  "walkingUnderwaterExhaustionMultiplier": 0.15,
+  "walkingOnWaterExhaustionMultiplier": 0.15,
+  "useShieldExhaustion": true,
+  "shieldExhaustionTickRate": 80,
+  "shieldExhaustionAmount": 0.3,
+  "useDynamicSleepHungerCost": false,
+  "hungerOnWakingUp": 10,
+  "dynamicSleepHungerCost": 0.0,
+  "hungerInPeaceful": true
+}

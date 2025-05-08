@@ -1,0 +1,16 @@
+filename = 'RebornCore-5.8.8.jar'
+name = 'Reborn Core'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '72c10650325dcf2b3de210e7d7a415f1f13b8a3e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6168111
+project-id = 237903

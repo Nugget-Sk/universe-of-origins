@@ -1,0 +1,16 @@
+filename = 'expanded-weapon-enchanting-1.0.6.jar'
+name = 'Expanded Weapon Enchanting'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '88f6fc317f75350779ecd7f905011b830f5230fbb8d710be79ff00690d401a183d6814865e6dc8eb1e9253595f8e7dcbb624dce41673dd34feeedb09f0d1911b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aa4EyFDP/versions/UZrNX0K8/expanded-weapon-enchanting-1.0.6.jar'
+
+[update.modrinth]
+mod-id = 'aa4EyFDP'
+version = 'UZrNX0K8'

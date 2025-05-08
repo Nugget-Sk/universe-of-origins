@@ -1,0 +1,16 @@
+filename = 'IceAndFireCE-1.0.2-1.20.1-fabric.jar'
+name = 'IceAndFire Community Edition'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0bff2167407499807dae7b5ad790da712698afae557e349e8b776bf8978baab0058d0e6078ac0a64124fb39428708cd4bcbed7e45a2211a16b308cc262974a6e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/VpmCsizY/versions/69qoQYCo/IceAndFireCE-1.0.2-1.20.1-fabric.jar'
+
+[update.modrinth]
+mod-id = 'VpmCsizY'
+version = '69qoQYCo'

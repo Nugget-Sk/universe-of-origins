@@ -1,0 +1,44 @@
+id: SNOWY_MOUNTAINS
+type: BIOME
+extends:
+  - COLOR_FROZEN
+  - ENVIRONMENT_LAND_POLAR_TUNDRA
+  - EQ_LAND
+  - CARVING_LAND
+  - BASE
+color: $biomes/colors.yml:SNOWY_MOUNTAINS
+
+vanilla: minecraft:frozen_peaks
+
+tags:
+  - USE_FROZEN_RIVER
+
+ocean:
+  palette: FROZEN_OCEAN
+
+palette:
+  - SNOW: $meta.yml:top-y
+  - SAND: $meta.yml:ocean-level
+  - << meta.yml:palette-bottom
+
+slant:
+  - threshold: 0.6
+    palette:
+      - SNOWY_SLANT: $meta.yml:top-y
+      - SAND: $meta.yml:ocean-level
+      - << meta.yml:palette-bottom
+  - threshold: 0.3
+    palette:
+      - BLOCK:minecraft:stone: $meta.yml:top-y
+      - SAND: $meta.yml:ocean-level
+      - << meta.yml:palette-bottom
+
+features:
+  slabs:
+    - STONE_SLABS
+    - SNOW_LAYERS
+  preprocessors:
+    - POWDER_SNOW_DEPOSITS
+    - ICE_COASTLINE
+  postprocessors:
+    - TREE_SNOW

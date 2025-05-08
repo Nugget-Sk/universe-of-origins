@@ -1,0 +1,12 @@
+[20:04:19] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
+[20:04:19] [INIT] Loaded plugins:
+[20:04:19] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
+[20:04:19] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricClientPlugin
+[20:04:19] [INIT] - pie.ilikepiefoo.AdditionsPlugin
+[20:04:19] [INIT] - pie.ilikepiefoo.fabric.FabricPlugin
+[20:04:19] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
+[20:04:19] [INIT] - com.probejs.ProbeJSPlugin
+[20:04:19] [INFO] Loaded script client_scripts:client_modifications.js in 0.0 s
+[20:04:19] [INFO] Loaded 1/1 KubeJS client scripts in 0.012 s with 0 errors and 0 warnings
+[20:04:33] [INFO] Client resource reload complete!
+[20:05:47] [INFO] Client resource reload complete!

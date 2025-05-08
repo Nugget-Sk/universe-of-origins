@@ -1,0 +1,16 @@
+filename = 'fancymenu_fabric_3.4.6_MC_1.20.1.jar'
+name = 'FancyMenu'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8b95f3619836d498d48d7c7b764669514de43d3bf00f4070b062f26fd3fff58af4433344ab3089f3c445bdf3b52f1d840a9347086353a6e01020175e83359b9a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Wq5SjeWM/versions/YNdTCPyn/fancymenu_fabric_3.4.6_MC_1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'Wq5SjeWM'
+version = 'YNdTCPyn'

@@ -1,0 +1,16 @@
+filename = 'quarry-reborn-1.20.1-1.2.0.jar'
+name = 'Quarry Reborn'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3c2cdc602d4811a22e47b716250628cc6bfb4358acaa2643d59356e33ec598a89a51c7997b1c341d82cd4e11359f7d97faf5ef117bd0e733262d14b7e644267f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Hg6ZLVmu/versions/YlKAcMQm/quarry-reborn-1.20.1-1.2.0.jar'
+
+[update.modrinth]
+mod-id = 'Hg6ZLVmu'
+version = 'YlKAcMQm'

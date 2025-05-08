@@ -1,0 +1,16 @@
+filename = 'Terra-fabric-6.3.1-BETA+73baaec6c.jar'
+name = 'Terra'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '78bfb107e0782b2fcd78158bf1395225d24b0981d29665b08c2bb4afab394d847bd1edaeb751d38672661ba5e7fc3c04970927ccc5b008e29c9fa68d0ef946fc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FIlZB9L0/versions/vP6oIlOO/Terra-fabric-6.3.1-BETA%2B73baaec6c.jar'
+
+[update.modrinth]
+mod-id = 'FIlZB9L0'
+version = 'vP6oIlOO'

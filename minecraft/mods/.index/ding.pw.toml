@@ -1,0 +1,16 @@
+filename = 'Ding-1.20.1-Fabric-1.5.0.jar'
+name = 'Ding'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ddadaf6622c6dad48bb3b3e5a7bb80b01f3a1e5505cc66b28c951cd100573ba42297f8724629104f0df47e5f63d96a5a1e5313717a23cabe2dccf2077582c5f0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UEtTD3gP/versions/V845ETId/Ding-1.20.1-Fabric-1.5.0.jar'
+
+[update.modrinth]
+mod-id = 'UEtTD3gP'
+version = 'V845ETId'

@@ -1,0 +1,16 @@
+filename = 'emi-1.1.21+1.20.1+fabric.jar'
+name = 'EMI'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '22b2c9f90bc58f1c1b862514331c8b8debfdc931efc3375f0aafd45aa26c527ff9e9b189be024964f1fdc42d0e5dff60c346443810a2a2a74ba4b258d990b695'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fRiHVvU7/versions/PD8qRh6n/emi-1.1.21%2B1.20.1%2Bfabric.jar'
+
+[update.modrinth]
+mod-id = 'fRiHVvU7'
+version = 'PD8qRh6n'

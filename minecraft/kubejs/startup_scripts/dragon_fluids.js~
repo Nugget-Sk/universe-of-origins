@@ -1,0 +1,5 @@
+StartupEvents.registry('fluid', e => {
+
+    e.create('fire_blood').displayName('Fire Dragon Blood').thickTexture(0xFC7B2A).bucketColor(0xFC7B2A).flowingTexture('minecraft:block/water_flow').stillTexture('minecraft:block/water_still')
+
+})

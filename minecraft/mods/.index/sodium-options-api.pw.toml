@@ -1,0 +1,16 @@
+filename = 'sodiumoptionsapi-fabric-1.0.10-1.20.1.jar'
+name = 'Sodium/Embeddium Options API'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dc188678ffaceacf6d03a2d693af9a2ac4ed69f5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6100811
+project-id = 1103431

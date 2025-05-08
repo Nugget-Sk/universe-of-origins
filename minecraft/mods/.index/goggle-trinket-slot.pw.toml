@@ -1,0 +1,16 @@
+filename = 'goggle-trinket-slot-1.0.4.jar'
+name = 'Create Goggle Trinket slot'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e13e7df26743777c64611f69a1397092ca05cb1061777ab61926575f212dba8bf3d8479d713af1806bb92ac3f9ff60a7d898167f918ca4b57bc2239490c5cc32'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/H9tVki0G/versions/SqoQfcGh/goggle-trinket-slot-1.0.4.jar'
+
+[update.modrinth]
+mod-id = 'H9tVki0G'
+version = 'SqoQfcGh'

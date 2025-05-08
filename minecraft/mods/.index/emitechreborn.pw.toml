@@ -1,0 +1,16 @@
+filename = 'EmiTechReborn-1.0.0.jar'
+name = 'EmiTechReborn'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '9fa0f0597947ef5889ef28345700835915b3c40214faf29336e4b533600ef793968a10632ba891a0cdb2e0249b304939002d9b0e482a77502fbcd2473586a4be'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MF8Uygnx/versions/5PIbQFlX/EmiTechReborn-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'MF8Uygnx'
+version = '5PIbQFlX'

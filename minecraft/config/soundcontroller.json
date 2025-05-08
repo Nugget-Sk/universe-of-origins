@@ -1,0 +1,14 @@
+{
+  "version": 4,
+  "subtitlesEnabled": false,
+  "sounds": [
+    {
+      "soundId": "minecraft:block.dispenser.launch",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.sheep.ambient",
+      "volume": 0.05
+    }
+  ]
+}

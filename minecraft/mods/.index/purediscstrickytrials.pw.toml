@@ -1,0 +1,16 @@
+filename = 'PureDiscsTrickyTrials-v1.0.1-1.20.1-Fabric.jar'
+name = 'Pure Discs - Tricky Trials'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '65d53ed13f67250232c90c8d4e74620150b4570cfa7ab2a98e559c8625c4ba4ad590eb9a95fb1aeaac7bf2573cc3a7fd8e881432b0da488d72dc8f069dd1755f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/W3alKOSq/versions/85GgbdOU/PureDiscsTrickyTrials-v1.0.1-1.20.1-Fabric.jar'
+
+[update.modrinth]
+mod-id = 'W3alKOSq'
+version = '85GgbdOU'

@@ -1,0 +1,16 @@
+filename = 'EasyItemList-0.1.3-1.20.1.jar'
+name = 'Easy Item List'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8a689aa153538506892ba004e238e013ec0fceedd6c7ebdb1572815e5ef60f5ad69068d53e1633cd994becb1e4768077936c96b6c132ac472a62cef03da15e1c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/VoNSGQHx/versions/cZu9D08P/EasyItemList-0.1.3-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'VoNSGQHx'
+version = 'cZu9D08P'
