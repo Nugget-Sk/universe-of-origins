@@ -1,6 +1,6 @@
 version:3465
 autoJump:false
-operatorItemsTab:false
+operatorItemsTab:true
 autoSuggestions:true
 chatColors:true
 chatLinks:true
@@ -32,7 +32,7 @@ damageTiltStrength:1.0
 highContrast:false
 gamma:0.5
 renderDistance:12
-simulationDistance:12
+simulationDistance:10
 entityDistanceScaling:1.0
 guiScale:3
 particles:1
@@ -46,7 +46,7 @@ resourcePacks:["vanilla","file/§6§lNugget\u0027s §f§lVanilla §e§lTweaks.zi
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
-soundDevice:"YHP3035 Headphones"
+soundDevice:
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0
@@ -73,7 +73,7 @@ mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
 skipMultiplayerWarning:true
-skipRealms32bitWarning:false
+skipRealms32bitWarning:true
 hideMatchedNames:true
 joinedFirstServer:true
 hideBundleTutorial:false
