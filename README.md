@@ -4,9 +4,9 @@ Below is a click below for instruction on how to install on different clients.
 Clients
 =======
 [Minecraft Launcher](https://github.com/Nugget-Sk/universe-of-origins/blob/main/README.md#minecraft-launcher)
-[PolyMC/Prism/MultiMC Launchers](https://github.com/Nugget-Sk/universe-of-origins/blob/main/README.md#)
-[CurseForge]()
-[Modrinth]()
+[PolyMC/Prism/MultiMC Launchers](https://github.com/Nugget-Sk/universe-of-origins/blob/main/README.md#polymcprismmultimc-launchers)
+[CurseForge](https://github.com/Nugget-Sk/universe-of-origins/blob/main/README.md#curseforge)
+[Modrinth](https://github.com/Nugget-Sk/universe-of-origins/blob/main/README.md#modrinth)
 
 Guides
 ========
@@ -41,7 +41,14 @@ Congrats that's it!
 
 
 ### PolyMC/Prism/MultiMC Launchers
-- Go
+- Click add instance.
+![Image instruction on Where to Find The Add Instance Button](https://cdn.discordapp.com/attachments/1370357838685274192/1370365702736969779/beIe4en.png?ex=681f3c03&is=681dea83&hm=60f8fb8c4cbe1c2461756bc1e83be8b60f4ccd9dce6b61f1e423edd06a546dc6&)
+- Then go to import and click on browse.
+![Importing and clicking browse](https://github.com/user-attachments/assets/ac064b38-55ff-4a78-bd9e-9a4e2e38ee2f)
+- in the window that appears after this find the downloaded sourcecode and select it.
+- Click On OK
+![OK button without being highlighted](https://github.com/user-attachments/assets/5ebbb2a0-1b13-4f55-a47f-cef211a5f663)
+
 
 
 
