@@ -3,8 +3,8 @@ Below is a click below for instruction on how to install on different clients.
 
 Clients
 =======
-[Minecraft Launcher](https://minecraft.com)
-[PolyMC/Prism/MultiMC Launchers]()
+[Minecraft Launcher](https://github.com/Nugget-Sk/universe-of-origins/blob/main/README.md#minecraft-launcher)
+[PolyMC/Prism/MultiMC Launchers](https://github.com/Nugget-Sk/universe-of-origins/blob/main/README.md#)
 [CurseForge]()
 [Modrinth]()
 
@@ -14,11 +14,6 @@ Guides
 Download [The Source Code of Latest Release](https://github.com/Nugget-Sk/universe-of-origins/releases/latest) & [Fabric Launcher](https://fabricmc.net/use/installer/)
 #### Fabric Installation
 - Close your minecraft (if it's open)
-- If you use Windows, download the .exe version (Download For Windows),
-because it doesn't require Java to be installed on your system.
-It instead uses Java that came with the official launcher.
-For macOS and Linux, you should download the .jar version.
-Sometimes, you need to install Java before this step.
 - Once open it should look like this.
 ![Fabric Installer Screen](https://docs.fabricmc.net/assets/players/installing-fabric/installer-screen.png)
 - Select minecraft version 1.20.1 & leave loader version as is.
@@ -32,7 +27,7 @@ Congrats that's it!
 ![Instructions on how to find installations](https://cdn.discordapp.com/attachments/1370357838685274192/1370359861044449421/msrY8ZC.png?ex=681f3692&is=681de512&hm=6701eac252fa723d4dc51a650f7267aed3a5be5f21032ef8ff15ffdca2959e93&)
 - Then make a new installation.
 ![Where to find new installation](https://cdn.discordapp.com/attachments/1370357838685274192/1370360176476946444/hZULXJX.png?ex=681f36de&is=681de55e&hm=f7d09033f02eec1bde59095238d3efb2e3bb83afe2f7fbd454a4258f28fdc346&)
-- Change the version to the [fabric]() you installed in steps above.
+- Change the version to the [fabric](https://github.com/Nugget-Sk/universe-of-origins/blob/main/README.md#fabric-installation) you installed in steps above.
 ![The correct version of fabric](https://cdn.discordapp.com/attachments/1370357838685274192/1370361025861521531/D5CSkBv.png?ex=681f37a8&is=681de628&hm=0b80c38d67987adcfe48791449dbfc2e9b279589b4128fac61b87e04c12fe33a&)
 - Click browse and find the [minecraft folder]() through the window.
 ![What to select](https://cdn.discordapp.com/attachments/1370357838685274192/1370361668340809819/ciTAT3z.png?ex=681f3841&is=681de6c1&hm=fb0d660662a9ecc8a0c2feb27998a56f218ff94029290b4ac9d895d7dcb4dc72&)
@@ -42,3 +37,17 @@ Congrats that's it!
 ![JVM Arguments After The Change](https://cdn.discordapp.com/attachments/1370357838685274192/1370361855888855070/iEJFagG.png?ex=681f386e&is=681de6ee&hm=75cf696922ae5f2a0bd413dfe4c3387f0a4d3cea9ac33442c7233a31ec7f2002&)
 - You're done the only thing you need to do now is click install!
 ![Install Button](https://cdn.discordapp.com/attachments/1370357838685274192/1370361901065961515/g4sGmAt.png?ex=681f3879&is=681de6f9&hm=f1715c2f17baa3d81fb8cb9f0155ef471b151c340abe712ce0a2c8c2daf7ddb7&)
+
+
+
+### PolyMC/Prism/MultiMC Launchers
+- Go
+
+
+
+### CurseForge
+
+
+
+
+### Modrinth
